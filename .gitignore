@@ -1,0 +1,9 @@
+# Compiled files and IDE folders (not needed on GitHub)
+*.class
+out/
+bin/
+target/
+.idea/
+*.iml
+.DS_Store
+ 
