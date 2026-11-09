@@ -2,7 +2,7 @@
 
 A 2D vertical shooter written in Java. I built it in stages over several labs for my object-oriented software engineering course at Harbin Institute of Technology (Shenzhen). In each lab I added a feature and refactored the code with a classic design pattern.
 
-![Gameplay screenshot](images/screenshot.png)
+<img width="971" height="786" alt="image" src="https://github.com/user-attachments/assets/6ee03b68-66eb-4dd0-9ac6-70cb832ec5ca" />
 
 ## Features
 
